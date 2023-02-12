@@ -1,2 +1,6 @@
 https://computingforgeeks.com/how-to-install-icinga2-monitoring-tool-on-ubuntu-18-04-lts/ # cài đặt icinga lên ubuntu 18.04
 https://www.thegioifirewall.com/huong-dan-cau-hinh-giam-sat-switch-cisco-voi-giao-thuc-snmp-tren-zabbix/ # mở snmp trên cisco
+https://www.gns3.com/software/download-vm # tải gns3 vm ( dùng vmware )
+https://www.gns3.com/software # tải gns3
+https://drive.google.com/drive/folders/1_Ua7Gu78kGlCE_4ojYOwNGqxsvIG1HBM?usp=share_link # phần mềm vmware và key kích hoạt
+
