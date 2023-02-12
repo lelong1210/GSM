@@ -1,0 +1,2 @@
+https://computingforgeeks.com/how-to-install-icinga2-monitoring-tool-on-ubuntu-18-04-lts/
+https://www.thegioifirewall.com/huong-dan-cau-hinh-giam-sat-switch-cisco-voi-giao-thuc-snmp-tren-zabbix/
